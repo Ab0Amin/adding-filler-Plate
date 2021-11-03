@@ -1,0 +1,9 @@
+C:\development\applications\adding filler Plate\adding filler Plate\bin\Debug\adding filler Plate.exe.config
+C:\development\applications\adding filler Plate\adding filler Plate\bin\Debug\adding filler Plate.exe
+C:\development\applications\adding filler Plate\adding filler Plate\bin\Debug\adding filler Plate.pdb
+C:\development\applications\adding filler Plate\adding filler Plate\obj\Debug\adding filler Plate.csprojResolveAssemblyReference.cache
+C:\development\applications\adding filler Plate\adding filler Plate\obj\Debug\adding_filler_Plate.Form1.resources
+C:\development\applications\adding filler Plate\adding filler Plate\obj\Debug\adding_filler_Plate.Properties.Resources.resources
+C:\development\applications\adding filler Plate\adding filler Plate\obj\Debug\adding filler Plate.csproj.GenerateResource.Cache
+C:\development\applications\adding filler Plate\adding filler Plate\obj\Debug\adding filler Plate.exe
+C:\development\applications\adding filler Plate\adding filler Plate\obj\Debug\adding filler Plate.pdb
